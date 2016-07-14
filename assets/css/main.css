@@ -1,0 +1,105 @@
+/* Custom CSS for homeown created and designed by @julienjacques April 22, 2016 */
+
+.btn-social.btn-simple {
+    font-size: 14px;
+}
+
+.social-line {
+    padding: 5px 0;
+}
+
+.social-line-black {
+    background-color: rgba(30, 30, 30, 0.77);
+}
+
+.small-info h1 {
+    font-weight: 200;
+    font-size: 62px;
+}
+
+
+@media (min-width: 220px) {
+.small-info h1 {
+    font-size: 52px;
+  }
+}
+
+@media (min-width: 850px) {
+.small-info h1 {
+    font-size: 3.2090em;
+  }
+}
+@media (min-width: 920px) {
+.small-info h1 {
+    font-size: 3.9090em;
+  }
+}
+@media (min-width: 1000px) {
+.small-info h1 {
+    font-size: 66px;
+  }
+}
+
+
+
+.small-info h3 {
+    font-size: 28px;
+}
+
+@media (min-width: 220px) {
+.small-info h3 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 850px) {
+.small-info h3 {
+    font-size: 26px;
+  }
+}
+@media (min-width: 920px) {
+.small-info h3 {
+    font-size: 28px;
+  }
+}
+@media (min-width: 1000px) {
+.small-info h3 {
+    font-size: 28px;
+  }
+}
+
+
+
+
+@media screen and (min-width: 767px) {
+   .divmobile { display:none; }
+}
+
+@media screen and (max-width: 767px) {
+   .divnotmobile { display:none; }
+}
+
+@media screen and (min-width: 992px) {
+   .divtablet { display:none; }
+}
+
+@media screen and (max-width: 992px) {
+   .divnottablet { display:none; }
+}
+
+.text-dark-grey {
+    font-color: #9A9A9A;
+    color: #9A9A9A;
+}
+
+.dropdown-menu {
+    border-radius: 3px;
+}
+
+
+
+.grey-text {
+  color: #999999;
+}
+
+
