@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /all.html
+Disallow: /components.html
+Disallow: /navbar-trapsarent.html
+Disallow: /notification.html
+Disallow: /template.html
+Disallow: /404.html
+Disallow: /tutorial-html.html
