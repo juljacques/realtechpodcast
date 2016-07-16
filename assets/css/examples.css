@@ -94,7 +94,7 @@
   height: 440px;
 }
 
-.about-us .container, .contact-us .container, .pricing .container, .blog-page .container, .ecommerce .container, .home .container, .product-page .container, .blog-post .container {
+.about-us .container, .contact-us .thank-you .container, .pricing .container, .blog-page .container, .ecommerce .container, .home .container, .product-page .container, .blog-post .container {
   max-width: 970px;
 }
 
