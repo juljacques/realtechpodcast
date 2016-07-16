@@ -96,10 +96,86 @@
     border-radius: 3px;
 }
 
-
-
 .grey-text {
   color: #999999;
+}
+
+
+/* Margin CSS */
+.margin-top-plus-20 {
+  margin-top: 20px;
+}
+
+.margin-top-plus-40 {
+  margin-top: 40px;
+}
+
+.margin-top-plus-60 {
+  margin-top: 60px;
+}
+
+.margin-top-plus-100 {
+  margin-top: 100px;
+}
+
+.margin-top-plus-120 {
+  margin-top: 120px;
+}
+
+.margin-top-plus-160 {
+  margin-top: 160px;
+}
+
+.margin-top-plus-200 {
+  margin-top: 200px;
+}
+
+.margin-top-minus-10 {
+  margin-top: -10px;
+}
+
+.margin-top-minus-20 {
+  margin-top: -20px;
+}
+
+.margin-top-minus-40 {
+  margin-top: -40px;
+}
+
+.margin-top-minus-60 {
+  margin-top: -60px;
+}
+
+.margin-top-minus-80 {
+  margin-top: -80px;
+}
+
+.margin-top-minus-100 {
+  margin-top: -100px;
+}
+
+.margin-top-minus-120 {
+  margin-top: -120px;
+}
+
+.margin-top-minus-140 {
+  margin-top: -140px;
+}
+
+.margin-top-minus-160 {
+  margin-top: -160px;
+}
+
+.margin-top-minus-200 {
+  margin-top: -200px;
+}
+
+.margin-top-minus-240 {
+  margin-top: -240px;
+}
+
+.margin-top-minus-310 {
+  margin-top: -310px;
 }
 
 
