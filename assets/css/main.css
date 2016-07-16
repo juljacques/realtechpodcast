@@ -1,5 +1,14 @@
 /* Custom CSS for homeown created and designed by @julienjacques April 22, 2016 */
 
+.podcast-image {
+  width: 1.10101em; 
+}
+
+.podcast-icon {
+  width: 1.08080em;
+
+}
+
 .thank-you .parallax {
     height: 650px;
 }
